@@ -3,10 +3,10 @@
 
 This application is developed using Java and Spring Boot.
 
-##Documentaion:
+## Documentaion:
 	Please refer to file: EMBL_EBI_Project_Documentation.pdf
 
-##Deployement steps:
+## Deployement steps:
 	1. Open Git bash.
 	
 	2. Clone repository:
