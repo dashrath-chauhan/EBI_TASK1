@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Dashrath Chauhan
+Build-Jdk: 11.0.9
+Implementation-Title: person
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.user
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/person/
+Created-By: Maven Integration for Eclipse
+
