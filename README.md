@@ -2,7 +2,7 @@
 Person Rest App
 
 Documentaion:
-	Please refer to file:  
+	Please refer to file: EMBL_EBI_Project_Documentation
 
 Deployement steps:
 1. Open Git bash.
