@@ -2,8 +2,9 @@
 ## Person REST API Example
 
 This application is developed using Java and Spring Boot.
-## Documentaion
-	Please refer to file:  
+
+##Documentaion:
+	Please refer to file: EMBL_EBI_Project_Documentation.pdf
 
 ##Deployement steps:
 	1. Open Git bash.
