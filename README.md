@@ -9,7 +9,7 @@ This application is developed using Java and Spring Boot.
 ## Deployement steps:
 	1. Open Git bash.
 	
-	2. Clone repository:
+	2. Clone repository.
 		git clone git@github.com:dashrath1526/EBI_TASK1.git
 
 	3. goto the repository location in local directory and change the branch to master.
@@ -107,7 +107,7 @@ Tested in postman tool.
 		}
 	]
 
-## Get a specific Thing
+## Get a specific Person
 
 ### Request
 
@@ -130,7 +130,7 @@ Tested in postman tool.
 		"favourite_colour": "Red"
 	}
 
-## Get a non-existent Thing
+## Get a non-existent Person
 
 ### Request
 
